@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SIBKMNET_WebApps", "SIBKMNET_WebApps\SIBKMNET_WebApps.csproj", "{135CC1E3-04BA-4C32-8320-771A0A548A06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIBKM_API", "SIBKM_API\SIBKM_API.csproj", "{CE688BC7-7A93-4896-A012-573BD49EB661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{135CC1E3-04BA-4C32-8320-771A0A548A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135CC1E3-04BA-4C32-8320-771A0A548A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135CC1E3-04BA-4C32-8320-771A0A548A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135CC1E3-04BA-4C32-8320-771A0A548A06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE688BC7-7A93-4896-A012-573BD49EB661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE688BC7-7A93-4896-A012-573BD49EB661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE688BC7-7A93-4896-A012-573BD49EB661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE688BC7-7A93-4896-A012-573BD49EB661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B5395A8-3E80-4422-81A1-43D57A9D20E2}
+	EndGlobalSection
+EndGlobal
